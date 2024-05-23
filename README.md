@@ -12,8 +12,8 @@ Node.js (which includes npm)
 
 Clone the repository to your local machine:
 
-1.Copy code
-git clone https://github.com/yourusername/react-project.git
+1.Copy code:
+git clone //github.com/zaynwanii/Keeper-app.git
 
 2.Navigate to the project directory:
 cd my-react-app
