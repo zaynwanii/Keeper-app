@@ -11,6 +11,7 @@ Node.js (which includes npm)
 # Installation
 
 Clone the repository to your local machine:
+
 1.Copy code
 git clone https://github.com/yourusername/react-project.git
 
